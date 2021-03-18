@@ -1,2 +1,3 @@
 # homework11
-Курс "DevOps Engineer" от LevelUp. Тема: kubernetes
+Домашнее задание 11 <br>
+<b>history.txt</b> - история комманд <br>
