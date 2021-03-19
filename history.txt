@@ -1,7 +1,7 @@
 # базовая настройка машины, затем авторизуемся в gcloud
 gcloud init
 gcloud services enable container.googleapis.com
-gcloud config set project bright-calculus-304614
+gcloud config set project supple-design-304411
 gcloud config set compute/zone europe-north1-a
 gcloud container clusters create hello-cluster
 gcloud container clusters get-credentials hello-cluster
